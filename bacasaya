@@ -1,0 +1,8 @@
+file terlalu besar maka, untuk mendapatkan file di bawah kalian tinggal running satu persatu file yang ada di dalam jupiter notebook dengan membuat path seperti di bawah ini
+
+path local computer anda \model_of_lstm\modelLSTM.h5
+path local computer anda \model_of_nn\feature.p
+path local computer anda \model_of_nn\model-sentiment.p
+path local computer anda \resource_of_lstm\tokenizer.pickle
+path local computer anda \resource_of_lstm\x_pad_sequences.pickle
+path local computer anda \resource_of_lstm\y_labels.pickle
